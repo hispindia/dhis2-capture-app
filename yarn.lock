@@ -2425,19 +2425,21 @@
     lodash "^4.17.10"
     material-ui "^0.20.0"
 
-"@dhis2/d2-ui-core@6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@dhis2/d2-ui-core/-/d2-ui-core-6.1.0.tgz#3efe93fe0094dc968ecd938ed9e1c24fe186d71d"
+"@dhis2/d2-ui-core@6.5.10":
+  version "6.5.10"
+  resolved "https://registry.yarnpkg.com/@dhis2/d2-ui-core/-/d2-ui-core-6.5.10.tgz#cbe1f1a9edcfa1e7cc7c482b1f2197280e545bac"
+  integrity sha512-mAsO91UjW0zdSOntz0/YnbjmUlHSAhwJMqMoKZMhsKDsJeeeZly18NYLjqztQH6uBRgBFFaHcMROsPAlSI0XUQ==
   dependencies:
     babel-runtime "^6.26.0"
     d2 "~31.7"
     lodash "^4.17.10"
     material-ui "^0.20.0"
+    rxjs "^5.5.7"
 
-"@dhis2/d2-ui-core@6.5.10":
-  version "6.5.10"
-  resolved "https://registry.yarnpkg.com/@dhis2/d2-ui-core/-/d2-ui-core-6.5.10.tgz#cbe1f1a9edcfa1e7cc7c482b1f2197280e545bac"
-  integrity sha512-mAsO91UjW0zdSOntz0/YnbjmUlHSAhwJMqMoKZMhsKDsJeeeZly18NYLjqztQH6uBRgBFFaHcMROsPAlSI0XUQ==
+"@dhis2/d2-ui-core@7.1.6":
+  version "7.1.6"
+  resolved "https://registry.yarnpkg.com/@dhis2/d2-ui-core/-/d2-ui-core-7.1.6.tgz#2bc65f86f1cbf0e04ca17accfb164968e5fcb7d4"
+  integrity sha512-zF5Xnts5NLmGkPJHR3QI4H9KLruHSp3JPAmR2lxNtturSpwEzecnauydo/Og76wcscd4V3ylEmIY2d5Ey2o9OA==
   dependencies:
     babel-runtime "^6.26.0"
     d2 "~31.7"
@@ -2454,11 +2456,12 @@
     lodash "^4.17.10"
     material-ui "^0.20.0"
 
-"@dhis2/d2-ui-org-unit-tree@^6.1.0":
-  version "6.1.0"
-  resolved "https://registry.yarnpkg.com/@dhis2/d2-ui-org-unit-tree/-/d2-ui-org-unit-tree-6.1.0.tgz#6604cf93c9d11395e157bdee8ca44133e36673df"
+"@dhis2/d2-ui-org-unit-tree@^7.1.6":
+  version "7.1.6"
+  resolved "https://registry.yarnpkg.com/@dhis2/d2-ui-org-unit-tree/-/d2-ui-org-unit-tree-7.1.6.tgz#122c2789d1dac0f00a7c8d40dd8b71a0926ec2d7"
+  integrity sha512-n2+jxm9GN75d839UOaEWHc5tfcJm81BKcEg1mLFE5HO8s1ZcoIOaD2jTEM2c4RJHoZcd2AC7befPnUg2kocWQQ==
   dependencies:
-    "@dhis2/d2-ui-core" "6.1.0"
+    "@dhis2/d2-ui-core" "7.1.6"
     "@material-ui/core" "^3.3.1"
     babel-runtime "^6.26.0"
     prop-types "^15.5.10"
